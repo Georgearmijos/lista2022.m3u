@@ -1,0 +1,537 @@
+#EXTM3U
+#EXTINF:-1 ,A&E HD
+http://160.20.164.171:8001/play/a091/index.m3u8
+#EXTINF:-1 ,AMC HD
+http://160.20.164.171:8001/play/a01u/index.m3u8
+#EXTINF:-1 ,America TV PY
+http://160.20.164.171:8001/play/a09h/index.m3u8
+#EXTINF:-1 ,Animal Planet HD
+http://160.20.164.171:8001/play/a01r/index.m3u8
+#EXTINF:-1 ,Antena 3
+http://160.20.164.171:8001/play/a037/index.m3u8
+#EXTINF:-1 ,AXN
+http://160.20.164.171:8001/play/a049/index.m3u8
+#EXTINF:-1 ,AXN
+http://160.20.164.171:8001/play/a03d/index.m3u8
+#EXTINF:-1 ,AZ click HD
+http://160.20.164.171:8001/play/a094/index.m3u8
+#EXTINF:-1 ,Azcorazon
+http://160.20.164.171:8001/play/a095/index.m3u8
+#EXTINF:-1 ,Azmundo
+http://160.20.164.171:8001/play/a093/index.m3u8
+#EXTINF:-1 ,Baby First
+http://160.20.164.171:8001/play/a02r/index.m3u8
+#EXTINF:-1 ,Baby TV
+http://160.20.164.171:8001/play/a08z/index.m3u8
+#EXTINF:-1 ,BBC World
+http://160.20.164.171:8001/play/a00l/index.m3u8
+#EXTINF:-1 ,Canal Estrellas
+http://160.20.164.171:8001/play/a054/index.m3u8
+#EXTINF:-1 ,Cartoon Network
+http://160.20.164.171:8001/play/a003/index.m3u8
+#EXTINF:-1 ,Cartoonito
+http://160.20.164.171:8001/play/a005/index.m3u8
+#EXTINF:-1 ,CCN
+http://160.20.164.171:8001/play/a007/index.m3u8
+#EXTINF:-1 ,CDN2- RD
+http://160.20.164.171:8001/play/a02m/index.m3u8
+#EXTINF:-1 ,Cine Latino
+http://160.20.164.171:8001/play/a02a/index.m3u8
+#EXTINF:-1 ,CineCanal
+http://160.20.164.171:8001/play/a02c/index.m3u8
+#EXTINF:-1 ,CINECANAL HD
+http://160.20.164.171:8001/play/a07b/index.m3u8
+#EXTINF:-1 ,Cinemax
+http://160.20.164.171:8001/play/a047/index.m3u8
+#EXTINF:-1 ,CineMax
+http://160.20.164.171:8001/play/a02b/index.m3u8
+#EXTINF:-1 ,CNNE
+http://160.20.164.171:8001/play/a090/index.m3u8
+#EXTINF:-1 ,Comedy Central HD
+http://160.20.164.171:8001/play/a01i/index.m3u8
+#EXTINF:-1 ,CQ15tv
+http://160.20.164.171:8001/play/a03r/index.m3u8
+#EXTINF:-1 ,DHE HD
+http://160.20.164.171:8001/play/a01y/index.m3u8
+#EXTINF:-1 ,DISC THEATHER HD
+http://160.20.164.171:8001/play/a01f/index.m3u8
+#EXTINF:-1 ,Discovery Channel HD
+http://160.20.164.171:8001/play/a015/index.m3u8
+#EXTINF:-1 ,Discovery Home & Health
+http://160.20.164.171:8001/play/a027/index.m3u8
+#EXTINF:-1 ,Discovery ID HD
+http://160.20.164.171:8001/play/a019/index.m3u8
+#EXTINF:-1 ,Discovery Kids HD
+http://160.20.164.171:8001/play/a03a/index.m3u8
+#EXTINF:-1 ,Discovery Science
+http://160.20.164.171:8001/play/a038/index.m3u8
+#EXTINF:-1 ,Discovery Turbo
+http://160.20.164.171:8001/play/a04j/index.m3u8
+#EXTINF:-1 ,Discovery Turbo
+http://160.20.164.171:8001/play/a026/index.m3u8
+#EXTINF:-1 ,Discovery World HD
+http://160.20.164.171:8001/play/a016/index.m3u8
+#EXTINF:-1 ,Disney
+http://160.20.164.171:8001/play/a024/index.m3u8
+#EXTINF:-1 ,Disney Channel
+http://160.20.164.171:8001/play/a05w/index.m3u8
+#EXTINF:-1 ,Disney JR
+http://160.20.164.171:8001/play/a006/index.m3u8
+#EXTINF:-1 ,E Entertainment
+http://160.20.164.171:8001/play/a04w/index.m3u8
+#EXTINF:-1 ,E! Entertairment HD
+http://160.20.164.171:8001/play/a01s/index.m3u8
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="13 | ECUADOR TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/ecuador-tv.png" group-title="ECUADOR ",ECUADOR TV HD
+http://160.20.164.171:8001/play/a09i/index.m3u8
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="13 | ECUAVISA" tvg-logo="htt://directostv.teleame.com/wp-content/uploads/2016/05/ecuador-tv.png" group-title="ECUADOR ",ECUAVISA
+http://160.20.164.171:8001/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="13 | ECUAVISA" tvg-logo="htt://directostv.teleame.com/wp-content/uploads/2016/05/ecuador-tv.png" group-title="ECUADOR ",ECUAVISA HQ
+http://160.20.164.171:8001/play/a07s/index.m3u8
+#EXTINF:-1 ,El Gourmet
+http://160.20.164.171:8001/play/a02u/index.m3u8
+#EXTINF:-1 ,ElCanaldelFutbol HD
+http://160.20.164.171:8001/play/a03z/index.m3u8
+#EXTINF:-1 ,Esne TV
+http://160.20.164.171:8001/play/a04k/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ,ESPN
+http://160.20.164.171:8001/play/a09c/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ,ESPN  +
+http://160.20.164.171:8001/play/a00o/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ,ESPN 2 HD
+http://160.20.164.171:8001/play/a010/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ,ESPN 2 Latin
+http://160.20.164.171:8001/play/a09b/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ,ESPN 3
+http://160.20.164.171:8001/play/a04l/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ,ESPN 3 HD
+http://160.20.164.171:8001/play/a00z/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ,ESPN 3 LT
+http://160.20.164.171:8001/play/a075/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ,ESPN 4
+http://160.20.164.171:8001/play/a04r/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ,ESPN 4  HD
+http://160.20.164.171:8001/play/a02d/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ,ESPN CO
+http://160.20.164.171:8001/play/a04t/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ,ESPN HD
+http://160.20.164.171:8001/play/a00y/index.m3u8
+#EXTINF:-1 ,EWTN
+http://160.20.164.171:8001/play/a01n/index.m3u8
+#EXTINF:-1 ,Film & arts HD
+http://160.20.164.171:8001/play/a01t/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ,Fox Sports 2
+http://160.20.164.171:8001/play/a055/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ,FOX SPORTS 2 HD
+http://160.20.164.171:8001/play/a01d/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ,Fox Sports 3
+http://160.20.164.171:8001/play/a056/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ,FOX SPORTS 3 HD
+http://160.20.164.171:8001/play/a011/index.m3u8
+#EXTINF:-1 ,FUTV HD CR
+http://160.20.164.171:8001/play/a00x/index.m3u8
+#EXTINF:-1 ,FX
+http://160.20.164.171:8001/play/a04b/index.m3u8
+#EXTINF:-1 ,FX HD
+http://160.20.164.171:8001/play/a01w/index.m3u8
+#EXTINF:-1 tvg-id="AEPanregional.us" tvg-name=" GAMATV" tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/01/gamatv-500x500.png" group-title="ECUADOR ",GAMATV
+http://160.20.164.171:8001/play/a09j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="12 | GOLTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="ECUADOR ",GOLTV SD
+http://160.20.164.171:8001/play/a050/index.m3u8
+#EXTINF:-1 ,Golden
+http://160.20.164.171:8001/play/a02y/index.m3u8
+#EXTINF:-1 ,Golden Premiere 2 HD
+http://160.20.164.171:8001/play/a07f/index.m3u8
+#EXTINF:-1 ,Golden Premiere HD
+http://160.20.164.171:8001/play/a07e/index.m3u8
+#EXTINF:-1 ,Golf Channel HD
+http://160.20.164.171:8001/play/a020/index.m3u8
+#EXTINF:-1 ,H2
+http://160.20.164.171:8001/play/a03j/index.m3u8
+#EXTINF:-1 ,HBO
+http://160.20.164.171:8001/play/a046/index.m3u8
+#EXTINF:-1 ,HBO Family HD
+http://160.20.164.171:8001/play/a072/index.m3u8
+#EXTINF:-1 ,HBO HD
+http://160.20.164.171:8001/play/a06z/index.m3u8
+#EXTINF:-1 ,HBO Plus HD
+http://160.20.164.171:8001/play/a071/index.m3u8
+#EXTINF:-1 ,HBO XTREME
+http://160.20.164.171:8001/play/a073/index.m3u8
+#EXTINF:-1 ,HBO2 HD
+http://160.20.164.171:8001/play/a070/index.m3u8
+#EXTINF:-1 ,History HD
+http://160.20.164.171:8001/play/a00n/index.m3u8
+#EXTINF:-1 ,HOLA! TV HD
+http://160.20.164.171:8001/play/a01h/index.m3u8
+#EXTINF:-1 ,Home & Health HD
+http://160.20.164.171:8001/play/a01g/index.m3u8
+#EXTINF:-1 ,Home Garden Latino
+http://160.20.164.171:8001/play/a03q/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ,Latin America Sport
+http://160.20.164.171:8001/play/a02x/index.m3u8
+#EXTINF:-1 ,Latina HD
+http://160.20.164.171:8001/play/a03y/index.m3u8
+#EXTINF:-1 ,LIFE TIME
+http://160.20.164.171:8001/play/a00f/index.m3u8
+#EXTINF:-1 ,MTV 00s HD
+http://160.20.164.171:8001/play/a01k/index.m3u8
+#EXTINF:-1 ,MTV 80s
+http://160.20.164.171:8001/play/a00i/index.m3u8
+#EXTINF:-1 ,MTV HD
+http://160.20.164.171:8001/play/a00p/index.m3u8
+#EXTINF:-1 ,MTV Hits
+http://160.20.164.171:8001/play/a00h/index.m3u8
+#EXTINF:-1 ,MTV SIM HD
+http://160.20.164.171:8001/play/a01j/index.m3u8
+#EXTINF:-1 ,Multicinema
+http://160.20.164.171:8001/play/a039/index.m3u8
+#EXTINF:-1 ,Multimedios
+http://160.20.164.171:8001/play/a06x/index.m3u8
+#EXTINF:-1 ,Multipremier
+http://160.20.164.171:8001/play/a09k/index.m3u8
+#EXTINF:-1 ,Multipremier HD
+http://160.20.164.171:8001/play/a021/index.m3u8
+#EXTINF:-1 ,Nat Geo HD
+http://160.20.164.171:8001/play/a012/index.m3u8
+#EXTINF:-1 ,National Geographic
+http://160.20.164.171:8001/play/a00e/index.m3u8
+#EXTINF:-1 ,NEXT - PAN
+http://160.20.164.171:8001/play/a02q/index.m3u8
+#EXTINF:-1 ,Nick Jr
+http://160.20.164.171:8001/play/a04i/index.m3u8
+#EXTINF:-1 ,Nick Jr
+http://160.20.164.171:8001/play/a004/index.m3u8
+#EXTINF:-1 ,Nick SIM HD
+http://160.20.164.171:8001/play/a01c/index.m3u8
+#EXTINF:-1 ,Nickelodeon
+http://160.20.164.171:8001/play/a023/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="12 | OROMAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="ECUADOR ",OROMAR TV
+http://160.20.164.171:8001/play/a07t/index.m3u8
+#EXTINF:-1 ,Paramount HD
+http://160.20.164.171:8001/play/a013/index.m3u8
+#EXTINF:-1 ,Pasiones HD
+http://160.20.164.171:8001/play/a017/index.m3u8
+#EXTINF:-1 ,RCN - GUA
+http://160.20.164.171:8001/play/a035/index.m3u8
+#EXTINF:-1 ,RCN Novelas
+http://160.20.164.171:8001/play/a02t/index.m3u8
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="08 | RTS ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR ",RTS ECUADOR
+http://160.20.164.171:8001/play/a04f/index.m3u8
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="13 | RTU" tvg-logo="htt://directostv.teleame.com/wp-content/uploads/2016/05/ecuador-tv.png" group-title="ECUADOR ",RTU
+http://160.20.164.171:8001/play/a07r/index.m3u8
+#EXTINF:-1 ,Sembrador
+http://160.20.164.171:8001/play/a033/index.m3u8
+#EXTINF:-1 ,Sony
+http://160.20.164.171:8001/play/a048/index.m3u8
+#EXTINF:-1 ,SONY HD
+http://160.20.164.171:8001/play/a07a/index.m3u8
+#EXTINF:-1 ,Sony Movies HD
+http://160.20.164.171:8001/play/a01x/index.m3u8
+#EXTINF:-1 ,Space
+http://160.20.164.171:8001/play/a04a/index.m3u8
+#EXTINF:-1 ,SPACE HD
+http://160.20.164.171:8001/play/a02e/index.m3u8
+#EXTINF:-1 ,STAR CHANNEL HD
+http://160.20.164.171:8001/play/a078/index.m3u8
+#EXTINF:-1 ,Star TVE HD
+http://160.20.164.171:8001/play/a01z/index.m3u8
+#EXTINF:-1 ,Studio Universal HD
+http://160.20.164.171:8001/play/a01p/index.m3u8
+#EXTINF:-1 ,Sun Channel
+http://160.20.164.171:8001/play/a02v/index.m3u8
+#EXTINF:-1 ,TBN Enlace
+http://160.20.164.171:8001/play/a00m/index.m3u8
+#EXTINF:-1 ,TBS
+http://160.20.164.171:8001/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="08 | TC TELEVISION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="ECUADOR ",TC TELEVISION HD
+http://160.20.164.171:8001/play/a009/index.m3u8
+#EXTINF:-1 ,TCM
+http://160.20.164.171:8001/play/a02z/index.m3u8
+#EXTINF:-1 ,TD+2 HD CR
+http://160.20.164.171:8001/play/a07d/index.m3u8
+#EXTINF:-1 ,TD+HD CR
+http://160.20.164.171:8001/play/a07c/index.m3u8
+#EXTINF:-1 ,Teen Nick HD
+http://160.20.164.171:8001/play/a01o/index.m3u8
+#EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-name="25 | TELEAMAZONAS HQ" tvg-logo="https://havanatimesenespanol.org/wp-content/uploads/2020/06/teleamazonas-1280x720.png" group-title="ECUADOR ",TELEAMAZONAS
+http://160.20.164.171:8001/play/a00c/index.m3u8
+#EXTINF:-1 ,Telecentro - RD
+http://160.20.164.171:8001/play/a02o/index.m3u8
+#EXTINF:-1 ,Telemundo HD
+http://160.20.164.171:8001/play/a01v/index.m3u8
+#EXTINF:-1 ,Telenovelas
+http://160.20.164.171:8001/play/a00r/index.m3u8
+#EXTINF:-1 ,Teleunion - RD
+http://160.20.164.171:8001/play/a02p/index.m3u8
+#EXTINF:-1 ,Teleuniverso - RD
+http://160.20.164.171:8001/play/a02n/index.m3u8
+#EXTINF:-1 ,Televida RD
+http://160.20.164.171:8001/play/a06w/index.m3u8
+#EXTINF:-1 ,TLC
+http://160.20.164.171:8001/play/a077/index.m3u8
+#EXTINF:-1 ,TNT HD
+http://160.20.164.171:8001/play/a01e/index.m3u8
+#EXTINF:-1 ,TNT Series HD
+http://160.20.164.171:8001/play/a014/index.m3u8
+#EXTINF:-1 ,Tooncast
+http://160.20.164.171:8001/play/a092/index.m3u8
+#EXTINF:-1 ,Tru TV
+http://160.20.164.171:8001/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17 | TVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/TVC_logo.png" group-title="ECUADOR ",TVC
+http://160.20.164.171:8001/play/a07u/index.m3u8
+#EXTINF:-1 ,TVChile
+http://160.20.164.171:8001/play/a03p/index.m3u8
+#EXTINF:-1 ,TyC
+http://160.20.164.171:8001/play/a051/index.m3u8
+#EXTINF:-1 ,Universal
+http://160.20.164.171:8001/play/a029/index.m3u8
+#EXTINF:-1 ,UNIVERSAL COMEDY
+http://160.20.164.171:8001/play/a032/index.m3u8
+#EXTINF:-1 ,UNIVERSAL CRIME
+http://160.20.164.171:8001/play/a031/index.m3u8
+#EXTINF:-1 ,UNIVERSAL PREMIERE O HD
+http://160.20.164.171:8001/play/a01m/index.m3u8
+#EXTINF:-1 ,Univision HD
+http://160.20.164.171:8001/play/a018/index.m3u8
+#EXTINF:-1 ,WARNER HD
+http://160.20.164.171:8001/play/a079/index.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://200.24.159.179:8500/play/a04v
+#EXTINF:-1,Claro Cinema
+http://200.24.159.179:8500/play/a03r
+#EXTINF:-1,Claro Sports
+http://200.24.159.179:8500/play/a03x
+#EXTINF:-1,Disney Jr SD
+http://200.24.159.179:8500/play/a013
+#EXTINF:-1,E Entertainment
+http://200.24.159.179:8500/play/a01b
+#EXTINF:-1 group-title="DEPORTES", ,ESPN EXTRA HD
+http://200.24.159.179:8500/play/a06j
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="13 | ECUADOR TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/ecuador-tv.png" group-title="ECUADOR ",ECUADOR TV SD
+http://200.24.159.179:8500/play/a026
+#EXTINF:-1,History Channel
+http://200.24.159.179:8500/play/a004
+#EXTINF:-1,I-Sat
+http://200.24.159.179:8500/play/a007
+#EXTINF:-1,Kanal D Drama HD
+http://200.24.159.179:8500/play/a04u
+#EXTINF:-1,SyFy
+http://200.24.159.179:8500/play/a04h
+#EXTINF:-1,TV+ HD
+http://200.24.159.179:8500/play/a03h
+#EXTINF:-1,TVE
+http://200.24.159.179:8500/play/a00l
+#EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-name="25 | TELEAMAZONAS HQ" tvg-logo="https://havanatimesenespanol.org/wp-content/uploads/2020/06/teleamazonas-1280x720.png" group-title="ECUADOR ",TELEAMAZONAS SD
+http://200.24.159.179:8500/play/a02h
+#EXTINF:-1 group-title="COLOMBIA", ,Caracol
+http://200.41.79.165:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA", ,Caracol HD
+http://200.41.79.165:8000/play/a0jk/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", , DIRECTV SPORTS
+http://190.61.41.182:8000/play/a3c9/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", , DIRECTV SPORTS 2
+http://190.61.41.182:8000/play/a3ca/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ,BEIN SPORT
+http://190.61.41.182:8000/play/a3cl/index.m3u8
+#EXTINF:-1,CINE FAMILIAR
+http://190.61.41.182:8000/play/a3cm/index.m3u8
+#EXTINF:-1,Canal Claro
+http://190.61.41.182:8000/play/a17x/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA", ,Canal Institucional
+http://190.61.41.182:8000/play/a1ue/index.m3u8
+#EXTINF:-1,Cinemax HD
+http://190.61.41.182:8000/play/a3bh/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA", ,City TV
+http://190.61.41.182:8000/play/a1up/index.m3u8
+#EXTINF:-1,Claro Cinema
+http://190.61.41.182:8000/play/a3a5/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ,Claro Sports
+http://190.61.41.182:8000/play/a1o7/index.m3u8
+#EXTINF:-1,DE PELICULA
+http://190.61.41.182:8000/play/a3ci/index.m3u8
+#EXTINF:-1,GOLDEN PLUS
+http://190.61.41.182:8000/play/a3c8/index.m3u8
+#EXTINF:-1,Golden Edge
+http://190.61.41.182:8000/play/a3bd/index.m3u8
+#EXTINF:-1,History Channel
+http://190.61.41.182:8000/play/a184/index.m3u8
+#EXTINF:-1,RCN HD 
+http://190.61.41.182:8000/play/a3ce/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA", ,Senal Colombia
+http://190.61.41.182:8000/play/a1ug/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA", ,Teleantioquia
+http://190.61.41.182:8000/play/a36c/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA", ,Telecafe
+http://190.61.41.182:8000/play/a36o/index.m3u8
+#EXTINF:-1,Warner
+http://190.61.41.182:8000/play/a35q/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", ,Win Sports+ HD 
+http://190.61.41.182:8000/play/a2lo/index.m3u8
+#EXTINF:-1,Z ROCK & POP 
+http://181.176.148.142:8000/play/a01u
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="08 | Educa TV" tvg-logo="https://lh3.googleusercontent.com/-gwVSG0Gv_VY/XzxqczgyXhI/AAAAAAAA4pA/P26xKeDaPZcrzl5WvvYymInXCZJRU3L3wCK8BGAsYHg/s0/2020-08-18.png" group-title="ECUADOR ",Educa TV
+https://cloud7.streamingcnt.net/cnt/educa/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="12 | GOLTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="ECUADOR ",GOLTV 2
+http://200.41.79.165:8000/play/a05u/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="12 | GOLTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="ECUADOR ",GOLTV 3
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/9163
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpsons" tvg-logo="https://designlogovector.com/wp-content/uploads/2020/04/The-Simpsons-designlogovectorcom.png" group-title="24/7 MALOTV",24/7 | Los Simpsons
+http://magmas5.com:8000/live/malotv/gratis/129313.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dinosaurios" tvg-logo="https://freepngimg.com/download/jurassic_park/35156-2-jurassic-park-file.png" group-title="24/7 MALOTV",24/7 | Dinosaurios
+http://magmas5.com:8000/live/malotv/gratis/129314.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAVO DEL 8*" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/El_Chavo_Animado_-_logo.svg/1200px-El_Chavo_Animado_-_logo.svg.png" group-title="24/7 MALOTV",24/7 | EL CHAVO DEL 8*
+http://magmas5.com:8000/live/malotv/gratis/129315.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | El príncipe de Bel-Air" tvg-logo="https://www.kindpng.com/picc/m/245-2455965_fresh-prince-of-bel-air-itunes-hd-png.png" group-title="24/7 MALOTV",24/7 | El príncipe de Bel-Air
+http://magmas5.com:8000/live/malotv/gratis/129317.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | South Park" tvg-logo="https://fanart.tv/fanart/tv/75897/clearart/SouthPark-75897-2.png" group-title="24/7 MALOTV",24/7 | South Park
+http://magmas5.com:8000/live/malotv/gratis/129318.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Súper Campeones" tvg-logo="https://img.peru21.pe/files/ec_article_multimedia_gallery/uploads/2019/02/27/5c77416c6e865.png" group-title="24/7 MALOTV",24/7 | Súper Campeones
+http://magmas5.com:8000/live/malotv/gratis/129319.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cantinflas" tvg-logo="https://k60.kn3.net/taringa/4/E/C/A/6/9/JonBizar/B1C.png" group-title="24/7 MALOTV",24/7 | Cantinflas
+http://magmas5.com:8000/live/malotv/gratis/129320.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | ALF" tvg-logo="https://fanart.tv/fanart/tv/78020/hdclearart/alf-5835b6ec28f6e.png" group-title="24/7 MALOTV",24/7 | ALF
+http://magmas5.com:8000/live/malotv/gratis/129321.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Chespirito SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1200px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="24/7 MALOTV",24/7 | Chespirito SD
+http://magmas5.com:8000/live/malotv/gratis/129322.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAPULÍN COLORADO SHOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1200px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="24/7 MALOTV",24/7 | EL CHAPULÍN COLORADO SHOW
+http://magmas5.com:8000/live/malotv/gratis/129323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Pokémon" tvg-logo="https://www.kindpng.com/picc/m/2-24125_pokemon-logo-transparent-hd-png-download.png" group-title="24/7 MALOTV",24/7 | Pokémon
+http://magmas5.com:8000/live/malotv/gratis/129325.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball Super" tvg-logo="https://orig00.deviantart.net/da46/f/2017/033/2/3/dragon_ball_super_logo_by_victormontecinos-daxn5se.png" group-title="24/7 MALOTV",24/7 | Dragon Ball Super
+http://magmas5.com:8000/live/malotv/gratis/129326.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Tom and Jerry" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Tom_and_Jerry_2021.jpg" group-title="24/7 MALOTV",24/7 | Tom and Jerry
+http://magmas5.com:8000/live/malotv/gratis/129327.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball" tvg-logo="http://img10.deviantart.net/8ab3/i/2016/143/d/5/poster_dragon_ball_z_27_aniversario_by_facudibuja-da3jjej.png" group-title="24/7 MALOTV",Dragon Ball
+http://magmas5.com:8000/live/malotv/gratis/129328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z" tvg-logo="http://img10.deviantart.net/8ab3/i/2016/143/d/5/poster_dragon_ball_z_27_aniversario_by_facudibuja-da3jjej.png" group-title="24/7 MALOTV",Dragon Ball Z
+http://magmas5.com:8000/live/malotv/gratis/129329.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Game of Thrones HD" tvg-logo="https://www.pixelatedarcade.com/pictures/logos/2326/Game-of-Thrones-Pinball-Logo.png" group-title="24/7 MALOTV",24/7 | Game of Thrones HD
+http://magmas5.com:8000/live/malotv/gratis/129330.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Fox Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Fox_Premium_Family_%28Latin_America%29_-_2017_Logo.png" group-title="24/7 MALOTV",24/7 | Fox Family
+http://magmas5.com:8000/live/malotv/gratis/129331.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Bob Esponja" tvg-logo="https://seeklogo.com/images/B/Bob_Esponja-logo-0D3F3F01DD-seeklogo.com.png" group-title="24/7 MALOTV",24/7 | Bob Esponja
+http://magmas5.com:8000/live/malotv/gratis/129332.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Coraje El Perro Cobarde" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Courage_the_Cowardly_Dog_logo.svg/1200px-Courage_the_Cowardly_Dog_logo.svg.png" group-title="24/7 MALOTV",24/7 | Coraje El Perro Cobarde
+http://magmas5.com:8000/live/malotv/gratis/129333.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL GT" tvg-logo="http://img10.deviantart.net/8ab3/i/2016/143/d/5/poster_dragon_ball_z_27_aniversario_by_facudibuja-da3jjej.png" group-title="24/7 MALOTV",24/7 | DRAGON BALL GT
+http://magmas5.com:8000/live/malotv/gratis/129334.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Doraemon" tvg-logo="https://1.bp.blogspot.com/-jXi65ZWe8Js/WiKYiTx3p9I/AAAAAAAACJs/r6knkbd3DE0I4iaO_GLgYuTEkiDky9hhwCLcBGAs/s1600/Doraemon%2B57.png" group-title="24/7 MALOTV",24/7 | Doraemon
+http://magmas5.com:8000/live/malotv/gratis/129335.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | El Pajaro Loco" tvg-logo="https://i.pinimg.com/originals/bd/7d/a6/bd7da6091c964a341bbb390f9887cd58.jpg" group-title="24/7 MALOTV",24/7 | El Pajaro Loco
+http://magmas5.com:8000/live/malotv/gratis/129336.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Hey Arnold!" tvg-logo="https://fanart.tv/fanart/tv/72005/clearlogo/HeyArnold-72005.png" group-title="24/7 MALOTV",24/7 | Hey Arnold!
+http://magmas5.com:8000/live/malotv/gratis/129337.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Looney Tunes" tvg-logo="https://www.logolynx.com/images/logolynx/01/010976d5595e2ee999cfa3cc99b0bd55.png" group-title="24/7 MALOTV",24/7 | Looney Tunes
+http://magmas5.com:8000/live/malotv/gratis/129338.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Naruto" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/9/90/Naruto_Logo_Deutsch.svg/1200px-Naruto_Logo_Deutsch.svg.png" group-title="24/7 MALOTV",24/7 | Naruto
+http://magmas5.com:8000/live/malotv/gratis/129339.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Death Note" tvg-logo="https://fanart.tv/fanart/tv/79481/clearlogo/death-note-4e6f9d15b1d6f.png" group-title="24/7 MALOTV",24/7 | Death Note
+http://magmas5.com:8000/live/malotv/gratis/129340.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Bleach" tvg-logo="https://fanart.tv/fanart/tv/79481/clearlogo/death-note-4e6f9d15b1d6f.png" group-title="24/7 MALOTV",24/7 | Bleach
+http://magmas5.com:8000/live/malotv/gratis/129341.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | One Punch Man" tvg-logo="https://www.pinclipart.com/picdir/big/79-793431_one-punch-man-clipart-deadpool-blusa-one-punch.png" group-title="24/7 MALOTV",24/7 | One Punch Man
+http://magmas5.com:8000/live/malotv/gratis/129342.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema: EL SHOW DE LA PEQUEÑA LU LU" tvg-logo="https://toppng.com/uploads/preview/menu-la-pequena-lulu-best-of-little-lulu-green-girl-dvd-11563041620ojnafjq5ia.png" group-title="24/7 MALOTV",Cinema: EL SHOW DE LA PEQUEÑA LU LU
+http://magmas5.com:8000/live/malotv/gratis/129343.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Samurái X" tvg-logo="https://cdn.dribbble.com/users/1563118/screenshots/4211480/samurai-mascot-logo_1x.png" group-title="24/7 MALOTV",24/7 | Samurái X
+http://magmas5.com:8000/live/malotv/gratis/129344.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Yu-Gi-Oh!" tvg-logo="https://www.pngkit.com/png/full/71-713310_yugioh-logo-yu-gi-oh-png.png" group-title="24/7 MALOTV",24/7 | Yu-Gi-Oh!
+http://magmas5.com:8000/live/malotv/gratis/129346.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Pantera Rosa" tvg-logo="https://formby.es/wp-content/uploads/2014/05/pinkpantherlogo.png" group-title="24/7 MALOTV",24/7 | La Pantera Rosa
+http://magmas5.com:8000/live/malotv/gratis/129347.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Picapiedra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/The_Flintstones_logo.svg/640px-The_Flintstones_logo.svg.png" group-title="24/7 MALOTV",24/7 | Los Picapiedra
+http://magmas5.com:8000/live/malotv/gratis/129349.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | La casa de papel" tvg-logo="https://logospng.org/download/la-casa-de-papel/logo-la-casa-de-papel-2048.png" group-title="24/7 MALOTV",24/7 | La casa de papel
+http://magmas5.com:8000/live/malotv/gratis/129350.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Crime investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="24/7 MALOTV",Crime investigation
+http://magmas5.com:8000/live/malotv/gratis/129351.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | The Big Bang Theory" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/2000px-TBBT_logo.svg.png" group-title="24/7 MALOTV",24/7 | The Big Bang Theory
+http://magmas5.com:8000/live/malotv/gratis/129352.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Smallville" tvg-logo="https://image.tmdb.org/t/p/w185/7kN4ye3NHWO27J2WnepYZ9Jpt8R.jpg" group-title="24/7 MALOTV",Smallville
+http://magmas5.com:8000/live/malotv/gratis/129353.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | ANIMANIACS" tvg-logo="https://image.tmdb.org/t/p/w185/bYCnPVwFbpjjZC5daEuQh2NcGJz.jpg" group-title="24/7 MALOTV",24/7 | ANIMANIACS
+http://magmas5.com:8000/live/malotv/gratis/129354.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pinky y Cerebro" tvg-logo="https://image.tmdb.org/t/p/w185/eLew1HttT40izNwLfdhEyx6zFBd.jpg" group-title="24/7 MALOTV",Pinky y Cerebro
+http://magmas5.com:8000/live/malotv/gratis/129355.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Papá a toda madre UHD 24/7" tvg-logo="https://image.tmdb.org/t/p/w185/yQwi3q0zjKR9fyf0TaaHsp01JW6.jpg" group-title="24/7 MALOTV",Papá a toda madre UHD 24/7
+http://magmas5.com:8000/live/malotv/gratis/129357.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cuidado con el Ángel UHD 24/7" tvg-logo="https://image.tmdb.org/t/p/w185/vxuoMW6YBt6UsxvMfRNwRl9LtWS.jpg" group-title="24/7 MALOTV",Cuidado con el Ángel UHD 24/7
+http://magmas5.com:8000/live/malotv/gratis/129360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema: EL ESPECTACULAR HOMBRE ARAÑA" tvg-logo="https://repelis.live/wp-content/uploads/2018/02/el-conjuro-1-poster.jpeg" group-title="24/7 MALOTV",Cinema: EL ESPECTACULAR HOMBRE ARAÑA
+http://magmas5.com:8000/live/malotv/gratis/129362.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema: EL CONDE PATULA" tvg-logo="https://img2.freepng.es/20180616/vpu/kisspng-count-duckula-2-igor-count-orlok-animated-series-daryl-5b25593bda4006.573634941529174331894.jpg" group-title="24/7 MALOTV",Cinema: EL CONDE PATULA
+http://magmas5.com:8000/live/malotv/gratis/129363.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden" tvg-logo="https://image.tmdb.org/t/p/w185/ic9Gb4Zz09ns3JPYHdax8u5kt0n.jpg" group-title="24/7 MALOTV",Naruto Shippuden
+http://magmas5.com:8000/live/malotv/gratis/129364.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema: CINE SUREÑO UHD" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png" group-title="24/7 MALOTV",Cinema: CINE SUREÑO UHD
+http://magmas5.com:8000/live/malotv/gratis/129365.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Marvel" tvg-logo="https://app.mxl-iptv.tv/logos_tv/saga_marvel.jpg" group-title="24/7 MALOTV",Peliculas Marvel
+http://magmas5.com:8000/live/malotv/gratis/129366.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema: FENOMENOIDE " tvg-logo="https://www.kindpng.com/picc/m/106-1064477_freakazoid-png-pic-fenomenoide-png-transparent-png.png" group-title="24/7 MALOTV",Cinema: FENOMENOIDE 
+http://magmas5.com:8000/live/malotv/gratis/129367.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Temes a la Oscuridad ?" tvg-logo="https://i.pinimg.com/originals/81/1c/96/811c962100bce08f35cb8901f0bf0677.jpg" group-title="24/7 MALOTV",24/7 | Temes a la Oscuridad ?
+http://magmas5.com:8000/live/malotv/gratis/129368.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Drama" tvg-logo="https://2.bp.blogspot.com/-VeRuF5a8cLY/W8DjlQ8m0uI/AAAAAAAAJDY/Z7x3yjEzfv8RqCdAkc3P6lz8ClJ-GFeCwCLcBGAs/s1600/600x600---DRAMA.jpg" group-title="24/7 MALOTV",Movistar Drama
+http://magmas5.com:8000/live/malotv/gratis/129369.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VH1  HITS" tvg-logo="https://app.mxl-iptv.tv/logos_tv/dad8ee483cc9a336cde702e9aa0b0954.jpg" group-title="24/7 MALOTV",VH1  HITS
+http://magmas5.com:8000/live/malotv/gratis/129372.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Inframundo" tvg-logo="https://image.tmdb.org/t/p/w185/pu67UYA22j2kSkPth0i1O7pilzc.jpg" group-title="24/7 MALOTV",Peliculas Inframundo
+http://magmas5.com:8000/live/malotv/gratis/129373.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Crepusculo" tvg-logo="https://app.mxl-iptv.tv/logos_tv/peliculas_crepusculo.jpg" group-title="24/7 MALOTV",Peliculas Crepusculo
+http://magmas5.com:8000/live/malotv/gratis/129374.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 |  X-Men" tvg-logo="https://www.cultture.com/pics/2017/12/elkas16.jpg" group-title="24/7 MALOTV",24/7 |  X-Men
+http://magmas5.com:8000/live/malotv/gratis/129375.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HI-MAN SD " tvg-logo="https://image.tmdb.org/t/p/w185/4RrdeC1L8Nvs2X7KsnKGbosIItV.jpg" group-title="24/7 MALOTV",24/7 HI-MAN SD 
+http://magmas5.com:8000/live/malotv/gratis/129376.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Harry Potter" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71fkSicblAL._SY445_.jpg" group-title="24/7 MALOTV",Peliculas Harry Potter
+http://magmas5.com:8000/live/malotv/gratis/129377.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas John Wick" tvg-logo="https://batsenales.files.wordpress.com/2019/05/batsejohnwick.png?w=351&h=640" group-title="24/7 MALOTV",Peliculas John Wick
+http://magmas5.com:8000/live/malotv/gratis/129378.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Resident Evil" tvg-logo="https://n3.sdlcdn.com/imgs/h/5/6/Resident-Evil-All-6-Parts-SDL071003500-1-7bf66.jpeg" group-title="24/7 MALOTV",Peliculas Resident Evil
+http://magmas5.com:8000/live/malotv/gratis/129379.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Películas EXTRATERRESTRES Sci-Fi" tvg-logo="https://image.tmdb.org/t/p/w185/zHy065u9JCDHA9IJ93MK7isSSMw.jpg" group-title="24/7 MALOTV",Películas EXTRATERRESTRES Sci-Fi
+http://magmas5.com:8000/live/malotv/gratis/129380.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Matrix" tvg-logo="https://www.impactohd.cl/32766/4k-uhd-matrix-la-trilogia.jpg" group-title="24/7 MALOTV",Peliculas Matrix
+http://magmas5.com:8000/live/malotv/gratis/129381.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Amores Verdaderos 24/7" tvg-logo="https://image.tmdb.org/t/p/w185/aBZynbuxspjz01mxrWpP5ZyDIyq.jpg" group-title="24/7 MALOTV",Amores Verdaderos 24/7
+http://magmas5.com:8000/live/malotv/gratis/129384.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Astro Boy" tvg-logo="https://image.tmdb.org/t/p/w185/8UsTkq6xgvrlTtYhSpzvfpCpe7O.jpg?pfdrid_c=true" group-title="24/7 MALOTV",24/7 | Astro Boy
+http://magmas5.com:8000/live/malotv/gratis/129385.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="X-Men" tvg-logo="https://image.tmdb.org/t/p/w185/2OFwsFhAobczgJWnVdwd9oZAF2N.jpg" group-title="24/7 MALOTV",X-Men
+http://magmas5.com:8000/live/malotv/gratis/129386.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mazinger Z" tvg-logo="https://image.tmdb.org/t/p/w185/q00u32mfU2PbTgyjZJKuPmXx1hC.jpg" group-title="24/7 MALOTV",Mazinger Z
+http://magmas5.com:8000/live/malotv/gratis/129387.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAVO ANIMADO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/1200px-El_Chavo_Animado_logo.svg.png" group-title="24/7 MALOTV",24/7 | EL CHAVO ANIMADO
+http://magmas5.com:8000/live/malotv/gratis/131452.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PELÍCULAS DE ROMANCE 2" tvg-logo="" group-title="24/7 MALOTV",24/7 PELÍCULAS DE ROMANCE 2
+http://magmas5.com:8000/live/malotv/gratis/131454.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LOS SIMPSONS HD" tvg-logo="http://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png" group-title="24/7 MALOTV",24/7 | LOS SIMPSONS HD
+http://magmas5.com:8000/live/malotv/gratis/136246.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | BARON ROJO HD" tvg-logo="https://dbdzm869oupei.cloudfront.net/img/sticker/preview/2771.png" group-title="24/7 MALOTV",24/7 | BARON ROJO HD
+http://magmas5.com:8000/live/malotv/gratis/140841.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | BEN 10 FUERZA ALIENIGENA HD " tvg-logo="https://2.bp.blogspot.com/-TzCqFw6xpDQ/V_PWw-VyJJI/AAAAAAAAAX8/av8KfBKc2_gXuISVbL9ny6T_niOLtskxQCEw/s1600/prop_nav_slice_ben10af.png" group-title="24/7 MALOTV",24/7 | BEN 10 FUERZA ALIENIGENA HD 
+http://magmas5.com:8000/live/malotv/gratis/140842.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | BEN 10 HD" tvg-logo="https://e7.pngegg.com/pngimages/597/703/png-clipart-ben-10-animated-series-storyboard-others-miscellaneous-reading.png" group-title="24/7 MALOTV",24/7 | BEN 10 HD
+http://magmas5.com:8000/live/malotv/gratis/140843.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | BIRDMAN " tvg-logo="https://img2.freepng.es/20190523/lau/kisspng-harvey-birdman-animated-cartoon-hanna-barbera-comi-avenger-sitting-on-birdmans-arm-5ce63b74832244.6602266615585923725371.jpg" group-title="24/7 MALOTV",24/7 | BIRDMAN 
+http://magmas5.com:8000/live/malotv/gratis/140844.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAPULÍN COLORADO ANIMADO" tvg-logo="https://www.clipartmax.com/png/middle/164-1644538_el-chapulin-colorado-chapulin-colorado-en-png.png" group-title="24/7 MALOTV",24/7 | EL CHAPULÍN COLORADO ANIMADO
+http://magmas5.com:8000/live/malotv/gratis/140845.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DANIEL EL TRAVIESO" tvg-logo="https://3.bp.blogspot.com/-WR6-Gz-vZng/VG4GF3jbl4I/AAAAAAAApP4/p2Q6jLzT5fI/s1600/DANI-111.jpg" group-title="24/7 MALOTV",24/7 | DANIEL EL TRAVIESO
+http://magmas5.com:8000/live/malotv/gratis/140846.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DICK TRACY" tvg-logo="https://toppng.com/uploads/preview/dick-tracy-vector-logo-free-download-11574190303yfzhlq6drg.png" group-title="24/7 MALOTV",24/7 | DICK TRACY
+http://magmas5.com:8000/live/malotv/gratis/140847.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Super Mario Bros 3" tvg-logo="https://media.vandal.net/t200/22729/super-mario-bros-3-cv-2013122414722_1.jpg" group-title="24/7 MALOTV",24/7 | Super Mario Bros 3
+http://magmas5.com:8000/live/malotv/gratis/145792.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Series: Narcos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZTifXLtPMZfp2PzrvsK2q6IYA6RAgKN_ST_a8_crofEhxXmAZybwqWlbxVpd_BugwJ5U&usqp=CAU" group-title="24/7 MALOTV",24/7 | Series: Narcos
+http://magmas5.com:8000/live/malotv/gratis/145806.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cars Disney" tvg-logo="https://i.ytimg.com/vi/bTn6qZ8709Q/maxresdefault.jpg" group-title="24/7 MALOTV",24/7 | Cars Disney
+http://magmas5.com:8000/live/malotv/gratis/145899.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cantinflas Show " tvg-logo="https://www.desdelaplaza.com/wp-content/uploads/2015/04/cantinflas.png" group-title="24/7 MALOTV",24/7 | Cantinflas Show 
+http://magmas5.com:8000/live/malotv/gratis/150692.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Familia P. Luche" tvg-logo="https://www.kindpng.com/picc/m/24-244955_la-familia-p-la-familia-p-luche-hd.png" group-title="24/7 MALOTV",24/7 | La Familia P. Luche
+http://magmas5.com:8000/live/malotv/gratis/152821.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | PHINEAS Y FERB SERIE HD" tvg-logo="https://www.pngkey.com/png/detail/316-3165314_phineas-and-ferb-download-png-image-phineas-and.png" group-title="24/7 MALOTV",24/7 | PHINEAS Y FERB SERIE HD
+http://magmas5.com:8000/live/malotv/gratis/154855.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | VECINOS UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/PRIS.png" group-title="24/7 MALOTV",24/7 | VECINOS UHD
+http://magmas5.com:8000/live/malotv/gratis/154856.m3u8
